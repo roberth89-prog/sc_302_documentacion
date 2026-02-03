@@ -1,2 +1,3 @@
-//Este archivo muestra un mensaje en consola
-console.log('Hola mundo');
+// Este archivo muestra mensajes en consola
+console.log("Hola mundo_editado");
+console.log("cambios en el archivo");
